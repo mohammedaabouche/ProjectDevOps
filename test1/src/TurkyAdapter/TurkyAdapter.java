@@ -11,7 +11,7 @@ public class TurkyAdapter implements IDuck {
     }
     public void fly(){
         for(int i=0;i<5;i++){
-            System.out.println("fly short, fly short, fly short");}
+            System.out.println("Updated : fly short, fly short, fly short");}
 
     }
     public void dook(){
