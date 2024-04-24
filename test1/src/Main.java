@@ -6,7 +6,7 @@ import turky.AfricanTurky;
 
 public class Main {
     public static void main(String[] args) {
-
+        System.out.println("FORK----------------FORK--------------------FORK");
         AfricanTurky africanTurky = new AfricanTurky();
         IDuck afrecanDuck = new FrenshDuck();
         IDuck turkyAdapter = new TurkyAdapter(africanTurky);
